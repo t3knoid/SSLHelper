@@ -11,6 +11,7 @@ Saves a given hostname's SSL certificate in x.509 (PEM) Base64 encoded format.
 usage: getcert.bat hostname
 
 Where hostname is the website's hostname.
+Where port is the website's port number.
 
 ## Cer2Pem.bat
 Converts an x.509 SSL certificate from PEM to CER (binary) format
